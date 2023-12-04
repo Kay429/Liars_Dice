@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\School\Documents\Professional Documents\Code Samples\Liar's Dice\Liar's Dice\Liar's Dice\Game.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\School\Documents\Professional Documents\Code Samples\Liar's Dice\Liar's Dice\Debug\Liar's Dice.exe not found or not built by the last incremental link; performing full link
+  Liar's Dice.vcxproj -> C:\Users\School\Documents\Professional Documents\Code Samples\Liar's Dice\Liar's Dice\Debug\Liar's Dice.exe

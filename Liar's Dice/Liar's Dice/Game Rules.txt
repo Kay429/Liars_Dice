@@ -1,0 +1,22 @@
+Welcome to Liar's Dice!
+
+In this game, each player will virtually roll five dice. Each 
+player can only veiw their own dice, and rolling only happens once 
+at the beginning of the game.
+
+Once everyone has rolled, the game begins.
+
+On a player's turn, the player must make a guess for how many dice
+in total landed on a certain number. For example, the player could 
+call out "three twos". (Even if the player does not have any reason 
+to believe there are three twos.)
+
+At this point another player can call the first a liar. The game
+will end there, and everyone's dice are revealed. If the guessing 
+player was wrong, they win. If not, the one who called liar wins.
+
+Should the turn pass without anyone calling liar, the next player
+will make a guess. The first number of the guess must be higher 
+than the last player's. For example, after "three twos", the next
+player cannot guess that there is less than four dice with a 
+certain number on it.
